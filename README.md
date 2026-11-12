@@ -6,6 +6,7 @@ My background is engineering and law, so I work on the part of AI security where
 
 ## Work
 
+- **[ai-evidence-record](https://github.com/atulkrchaudhari/ai-evidence-record)**. AER, an open specification for tamper-evident, hash-chained logs of AI agent decisions, with a reference implementation, a verifier and conformance vectors.
 - **[llm-guardrail-benchmark](https://github.com/atulkrchaudhari/llm-guardrail-benchmark)**. A regression benchmark for LLM guardrails. Every attack is mapped to MITRE ATLAS, and the benchmark runs as a CI gate.
 - **AI Prompt Shield**. A guardrail API for AI agents with hash-chained runtime evidence mapped to OWASP guidance and the EU AI Act. Also independent adversarial assessments for AI companies.
 - **Securing AI: A Practical Guide to Prompt Injection, LLM Guardrails and AI Firewalls**. Book, published March 2026.
